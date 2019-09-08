@@ -1,0 +1,2 @@
+# selfsbot
+nsfw bruh bot
